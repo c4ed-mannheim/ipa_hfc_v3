@@ -1,5 +1,6 @@
 # ipacheck
 
+IPA has recently (in 2022) released version 4 of the high-frequency checks packages. I've put up version 3 here so that you can easily install the older version.
 
 ## Installation
 
